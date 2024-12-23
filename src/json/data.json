@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Cylinder Head",
+    "description": "The top part of the engine that houses the valves, spark plugs, and combustion chamber.",
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsP58YJCCqKn0W3h4VnIDbriOO4VqfoAYvGcqdHjBqDLgCmnpnvUgxhjDMTuxB",
+    "price": 250.00,
+    "availability": true,
+    "category": "Engine Components"
+  },
+  {
+    "id": 2,
+    "name": "Piston and Piston Rings",
+    "description": "The moving parts that create the power stroke in the engine.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzJa5M0r_G2yz7ZKJh04IsY6dSLWF6H7c-pxvssCNDiR6Q7T-d2l4JfCpQNXKN",
+    "price": 100.00,
+    "availability": true,
+    "category": "Engine Components"
+  },
+  {
+    "id": 3,
+    "name": "Connecting Rod",
+    "description": "The link between the piston and the crankshaft.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfiteI8bfDY7nTvZemHf_Ug8ZOPIvVnwgMTVrnL1PR2Gr5TL0hiUGDv0jguvO",
+    "price": 50.00,
+    "availability": true,
+    "category": "Engine Components"
+  },
+  {
+    "id": 4,
+    "name": "Air Filter",
+    "description": "Removes dust and debris from the air entering the engine.",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnxEHAmmJgzDHp1LZX6-GoAimH0oax7MlYneFdzA3AvyDhstbwJp7AG9T7yK0E",
+    "price": 20.00,
+    "availability": true,
+    "category": "Engine Components"
+  },
+  {
+    "id": 5,
+    "name": "Spark Plugs",
+    "description": "Ignite the air-fuel mixture in the engine cylinders.",
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnTsyOSE1K0S7Ro9_cnreT3pQ3IErSKB8uUcju9kxszxB5roroj2TNwsUJkw6n",
+    "price": 10.00,
+    "availability": true,
+    "category": "Engine Components"
+  },
+  {
+    "id": 6,
+    "name": "Clutch Plates",
+    "description": "Transfer power from the engine to the transmission.",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8SBsT1gx48TSBCu91lyN_hzj7CQW1YpEsyoNJGAO-WPVJgPBf-9y-oxkBigf9",
+    "price": 75.00,
+    "availability": true,
+    "category": "Drivetrain Components"
+  },
+  {
+    "id": 7,
+    "name": "Chain or Belt",
+    "description": "Transfers power from the engine to the rear wheel.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1JliTo-QJAbUIz-3gPK5q8sYIYqXny-ONryNBa4mI7LVslB4OjRD2UvCANqHm",
+    "price": 50.00,
+    "availability": true,
+    "category": "Drivetrain Components"
+  },
+  {
+    "id": 8,
+    "name": "Front Sprocket",
+    "description": "Drives the chain or belt on the front of the motorcycle.",
+    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0eSxvP_ugjNbp6g7nyYXHjluu3FpGMWqZVMCLvObDb0IakbZJ2ZovlBZ6oy6y",
+    "price": 25.00,
+    "availability": true,
+    "category": "Drivetrain Components"
+  },
+  {
+    "id": 9,
+    "name": "Rear Sprocket",
+    "description": "Drives the chain or belt on the rear wheel of the motorcycle.",
+    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSi3NmvxBvBcFoHnhPDu24TzIZaB1wcQVWNubSUqjXjC_JDWqshi-PTr0HjxOl3",
+    "price": 30.00,
+    "availability": true,
+    "category": "Drivetrain Components"
+  },
+  {
+    "id": 10,
+    "name": "Front Brake Pads",
+    "description": "Replacement brake pads for the front brakes.",
+    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXXkAUk-AHiTZqsUKMvkBvl4Ap-csEi1Op7ehy7ItWKAVSXMOJhWkvi1qzi6NR",
+    "price": 20.00,
+    "availability": true,
+    "category": "Brakes"
+  },
+{
+  "id": 11,
+  "name": "Rear Brake Pads",
+  "description": "Replacement brake pads for the rear brakes.",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8w6KbCTvMREn2naz4GUOc84VOaXB-7JE2xPMZ-LoJqz8h0eWwBKbx3MZgZEWP",
+  "price": 20.00,
+  "availability": true,
+  "category": "Brakes"
+},
+{
+  "id": 12,
+  "name": "Brake Rotors",
+  "description": "Discs that the brake pads press against.",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRX1zxAUpxnEN7Fn-U22H2Kse94PZnRxlj431npT3lkH-sKRaJEoUnNY8x4Miv",
+  "price": 50.00,
+  "availability": true,
+  "category": "Brakes"
+},
+{
+  "id": 13,
+  "name": "Brake Fluid",
+  "description": "Hydraulic fluid that transmits braking force.",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQt587-6_bs5CyuLN3PR23yefaCPWBICKsDsI7UwCSFE2FHKZmBQsQpRUVA0R11",
+  "price": 10.00,
+  "availability": true,
+  "category": "Brakes"
+},
+{
+  "id": 14,
+  "name": "Tires",
+  "description": "Rubber outer layer that provides traction and absorbs shocks.",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6fhqEZMYOeOprxrRcRNPGdkTeautCjN5nX_2q2lOjctWZEIS9YOt64ya9-iWX",
+  "price": 100.00,
+  "availability": true,
+  "category": "Wheels and Tires"
+},
+{
+  "id": 15,
+  "name": "Rims",
+  "description": "The metal or alloy wheels that hold the tires.",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZdMxAOD49KI5BV-oO-_8rR_zD0X7FJ2VoaqWk3OtgLuKvvtpa7taHddmjalLw",
+  "price": 150.00,
+  "availability": true,
+  "category": "Wheels and Tires"
+},
+{
+  "id": 16,
+  "name": "Battery",
+  "description": "Provides power for the electrical system.",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ23D4qblfTwf6lJvCcVG-DdFHSOtyVeAbkRk3ptkXeWND7JlFDnordObheen3q",
+  "price": 75.00,
+  "availability": true,
+  "category": "Electrical Components"
+},
+{
+  "id": 17,
+  "name": "Headlights",
+  "description": "Provides illumination for the rider and other vehicles.",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNEHvFtPvC0nkzV_7rlv0kttPMFdpcr02Ej_dC-U2EUM-J3KgDSvdobWTTeydB",
+  "price": 50.00,
+  "availability": true,
+  "category": "Electrical Components"
+},
+{
+  "id": 18,
+  "name": "Taillights",
+  "description": "Warns other vehicles of the motorcycle's presence.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCPUKat7Uf8ceLtIijIbsnQ6O_hPM0zYX9cvqJTBCk9IjfOJKp4FiWtZE-RRW-",
+  "price": 25.00,
+  "availability": true,
+  "category": "Electrical Components"
+},
+{
+  "id": 19,
+  "name": "Turn Signals",
+  "description": "Indicates the rider's intention to turn or change lanes.",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwn6Qulbe0nQDCrU9vt_x4jPdAgdGg-ZroEeaUm2sKbd9fbSRswOgVM90MAQYr",
+  "price": 20.00,
+  "availability": true,
+  "category": "Electrical Components"
+},
+{
+  "id": 20,
+  "name": "Mirrors",
+  "description": "Allows the rider to see behind them.",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjidjsOSwHrKZuqWJvY01K7FPeUWLK-XuFlhgqVnyhB-7PFjSzVjS7wAFqjPqD",
+  "price": 30.00,
+  "availability": true,
+  "category": "Body Components"
+}
+]

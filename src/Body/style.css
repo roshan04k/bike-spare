@@ -1,0 +1,230 @@
+/* Header Styles */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:rgb(7, 7, 37); /* Dark blue */
+    color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds subtle shadow for depth */
+    border-radius: 60px;
+}
+
+nav h1 {
+    margin-left: 20px;
+    font-size: 30px; /* Increased size for better visibility */
+    font-weight: bold;
+    letter-spacing: 1.5px; /* Slight spacing for modern look */
+    color: #ffffff;
+    transition: color 0.3s ease; /* Smooth transition on hover */
+}
+
+nav h1:hover {
+    color: #ffcc00; /* Bright color on hover for logo/title */
+}
+
+/* Navigation List */
+ul {
+    display: flex;
+    align-items: center;
+    margin-right: 40px;
+    list-style: none; /* Remove bullets */
+}
+
+li {
+    padding-left: 25px;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px; /* Font size for easy readability */
+    font-weight: 500;
+    padding: 8px 15px;
+    border-radius: 25px; /* Rounded buttons */
+    transition: background-color 0.3s, color 0.3s; /* Smooth hover effects */
+}
+
+/* Link Hover Effects */
+li a:hover {
+    background-color: #ffcc00; /* Bright yellow background on hover */
+    color: #15155f; /* Dark blue text on hover */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    nav {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    ul {
+        margin-top: 10px;
+        flex-direction: column;
+        margin-right: 0;
+    }
+
+    li {
+        padding-left: 0;
+        margin-bottom: 10px;
+    }
+
+    li a {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+}
+
+/* form */
+form {
+    margin-left: 40%;
+    font-size: larger;
+}
+button {
+    padding: 5px;
+    background-color: blue;
+    color: white;
+}
+
+/* API */
+.api {
+    width: 300px;
+    height: 500px;
+    border: 1px solid black;
+    margin: 15px;
+    border-radius: 50px;
+}
+.api:hover {
+    transform: scale(1.05);
+  }
+.product {
+    display: flex;
+    flex-wrap: wrap;
+}
+.apiimage {
+    width: 200px;
+    height: 200px;
+}
+.apibtn {
+    display: flex;
+    justify-content: space-around;
+}
+.apiaddtocart  {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 25px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+.apicartnum {
+    padding: 10px;
+    width: 30px;
+    background-color: green;
+}
+.apiprice {
+    text-align: center;
+    color: #0056b3;
+}
+/* Fetch */
+.fetch {
+    width: 300px;
+    border: 1px solid black;
+    margin: 5px;
+}
+.fetchbtn {
+    margin-left: 25%;
+}
+/* footer */
+/* Footer Styles */
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+    font-size: 0.9rem;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  
+  .footer-content p {
+    margin: 5px 0;
+  }  
+  
+/* Login */
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+     /* Stacks forms on smaller screens */
+}
+
+.form-box {
+    width: 100%;
+    
+    background-color: #ffffff;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+label {
+    font-size: 14px;
+    color: #666;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+input:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+.form-btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.form-btn:hover {
+    background-color: #0056b3;
+}
